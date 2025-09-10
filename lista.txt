@@ -27,8 +27,12 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" group-title="Italy",Rai Premium Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" group-title="Italy",Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+<channel id="Giallo.TV.it">
+    <display-name lang="it">Giallo TV</display-name>
+    <icon src="https://s3.eu-west-1.amazonaws.com/loma-media-it/giallo-image-12834c8c-1d28-4def-ac91-e86d0d3a16b5.png" />
+    <icon src="https://s3.eu-west-1.amazonaws.com/loma-media-it/giallo-image-12834c8c-1d28-4def-ac91-e86d0d3a16b5.png" />
+    <url>http://www.warnertv.it</url>
+  </channel>
 
 
 
