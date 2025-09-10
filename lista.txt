@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Entertainment",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="Entertainment",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Rai_2_logo.svg" group-title="Entertainment",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://commons.wikimedia.org/wiki/Category:Logos_of_Rai_3#/media/File:Rai_3_2010.png" group-title="Entertainment",Rai 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="Entertainment",Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Entertainment",Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title="Entertainment",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rai_3_logo.svg/512px-Rai_3_logo.svg.png" group-title="Entertainment",Rai 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:-1 tvg-id="C3T.it" tvg-chno="84" tvg-logo="https://www.canale3.tv/wp-content/uploads/2024/07/cropped-cropped-Logo-canale-3.png" group-title="Local",Canale 3 Toscana
 https://router.xdevel.com/video0s976737-1453/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Radiosienatv.it" tvg-chno="91" tvg-logo="https://www.radiosienatv.it/wp-content/uploads/2022/05/logo-scuro.svg" group-title="Local",Radio Siena TV
